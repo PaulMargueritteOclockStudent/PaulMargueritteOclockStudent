@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **build and create my portfolio**
 
-- 🌱 I’m currently learning **Symfony**
-
 - 🤝You can find my last project **Write me tips or suggestion**
 
 - ⚡ Quote fun **It's smarter to light a tiny lamp than to complain about the darkness.**
