@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulmargueritteoclockstudent&show_icons=true&theme=tokyonight&locale=en" alt="paulmargueritteoclockstudent" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmargueritteoclockstudent&theme=dark" alt="paulmargueritteoclockstudent" /></p>
+
+<a href="https://app.daily.dev/kushwolf"><img src="https://api.daily.dev/devcards/c5082b5fef9749798ceb75df60e81a18.png?r=2lf" width="400" alt="KushWolf's Dev Card"/></a>
