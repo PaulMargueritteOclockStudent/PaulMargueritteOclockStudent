@@ -36,8 +36,4 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulmargueritteoclockstudent&theme=dark" alt="paulmargueritteoclockstudent" /></p>
 </details>
 
-<details>
-  <summary>🖱️ DailyDev Card>
-  <br>
-    <p>><img align="center" src=" href="https://app.daily.dev/kushwolf"><img src="https://github.com/PaulMargueritteOclockStudent/PaulMargueritteOclockStudent/blob/main/devcard.svg" width="400" alt="Paul's Dev Card"/></p>
-</details>
+<a href="https://app.daily.dev/kushwolf"><img src="https://github.com/PaulMargueritteOclockStudent/PaulMargueritteOclockStudent/blob/main/devcard.svg" width="400" alt="Paul's Dev Card"/></a>
