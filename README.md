@@ -39,5 +39,5 @@
 <details>
   <summary>🖱️ DailyDev Card>
   <br>
-    <a href="https://app.daily.dev/kushwolf"><img src="https://github.com/PaulMargueritteOclockStudent/PaulMargueritteOclockStudent/blob/main/devcard.svg" width="400" alt="Paul's Dev Card"/></a>
+    <p><a href="https://app.daily.dev/kushwolf"><img src="https://github.com/PaulMargueritteOclockStudent/PaulMargueritteOclockStudent/blob/main/devcard.svg" width="400" alt="Paul's Dev Card"/></a></p>
 </details>
