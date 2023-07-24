@@ -24,7 +24,7 @@
 
 <h3 align="left">⌛ Time per Language:</h3>
 
-      <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
   
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue)
 
