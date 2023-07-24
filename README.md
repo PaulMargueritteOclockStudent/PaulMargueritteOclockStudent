@@ -25,7 +25,7 @@
 <h3 align="left">⌛ Time per Language:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
@@ -63,7 +63,7 @@ VS Code                  0 secs              ███████████�
 ```
 
 
- Last Updated on 24/07/2023 11:56:40 UTC
+ Last Updated on 24/07/2023 12:08:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
