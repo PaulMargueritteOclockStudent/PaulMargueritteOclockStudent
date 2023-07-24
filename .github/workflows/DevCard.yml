@@ -1,21 +1,32 @@
-name: DevCard
-
-permissions:
-  contents: write
+name: Waka Readme
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
+    # Runs at 12am UTC
     - cron: "0 0 * * *"
 
 jobs:
-  devcard:
+  update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
+      - uses: athul/waka-readme@master
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # meta
+          API_BASE_URL: https://wakatime.com/api
+
+          # content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: all_time 
+          TIME_RANGE: true
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+         
