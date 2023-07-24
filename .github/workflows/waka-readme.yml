@@ -1,20 +1,21 @@
-name: Waka Readme
+name: DevCard
+
+permissions:
+  contents: write
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  devcard:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
-
+          devcard_id: ${{ secrets.DEVCARD_ID }}
