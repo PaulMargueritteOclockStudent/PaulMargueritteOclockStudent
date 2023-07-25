@@ -77,11 +77,10 @@ VS Code                  3 hrs 25 mins       ███████████�
  Last Updated on 25/07/2023 12:40:38 UTC
 <!--END_SECTION:stats-->
 </details>
-
-<!--START_SECTION:waka-->
 <details>
   <summary>🔥 All time </summary>
   <br>
+<!--START_SECTION:waka-->
 ```all_time
 From: 17 July 2023 - To: 24 July 2023
 
@@ -92,9 +91,8 @@ PHP          1 hr 40 mins    >>>>>>>>>>>>-------------   49.09 %
 YAML         0 secs          -------------------------   00.05 %
 Git Config   0 secs          -------------------------   00.01 %
 ```
-</details>
-
 <!--END_SECTION:waka-->
+</details>
 
 <h3 align="left">Recent Github Activities:</h3>
 
