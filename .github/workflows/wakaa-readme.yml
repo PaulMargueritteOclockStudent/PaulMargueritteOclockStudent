@@ -1,32 +1,18 @@
-name: Wakaa Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # Runs at 18:15,45 UTC / 23:45,00:15 IST
+    - cron: '15,45 18 * * *'
 
 jobs:
   update-readme:
-    name: WaakaReadme DevMetrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: joe733/waka-readme@workshop
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
-          # content
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ->
-          CODE_LANG: all_time 
-          TIME_RANGE: true
-          LANG_COUNT: 10
-          SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-          
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
