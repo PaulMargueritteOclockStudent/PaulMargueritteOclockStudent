@@ -28,7 +28,9 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-198-blue)
-
+<details>
+  <summary>🌞 When code </summary>
+  <br>
 **I'm an Early 🐤** 
 
 ```text
@@ -37,6 +39,10 @@
 🌃 Evening                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
+</details>
+<details>
+  <summary>📅 Schedule </summary>
+  <br>
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -48,7 +54,10 @@ Friday                   44 commits          ███░░░░░░░░�
 Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
-
+</details>
+<details>
+  <summary>📅 This week </summary>
+  <br>
 📊 **This Week I Spent My Time On** 
 
 ```text
