@@ -49,9 +49,6 @@ Saturday                 36 commits          ██░░░░░░░░░�
 Sunday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 
-<details>
-  <summary>📅 This week </summary>
-  <br>
 📊 **This Week I Spent My Time On** 
 
 ```text
