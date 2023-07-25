@@ -21,6 +21,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
           
       - uses: athul/waka-readme@master
         with:
@@ -40,4 +41,12 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          
+          # commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metricsss
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: PaulMargueritteOclockStudent
+          COMMITTER_EMAIL: paul.margueritte@icloud.com
+          AUTHOR_NAME: PaulMargueritteOclockStudent
+          AUTHOR_EMAIL: paul.margueritte@icloud.com
+          # you can populate email-id with secretes instead
