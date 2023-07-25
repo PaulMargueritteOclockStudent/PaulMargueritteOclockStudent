@@ -79,7 +79,9 @@ VS Code                  3 hrs 25 mins       ███████████�
 </details>
 
 <!--START_SECTION:waka-->
-
+<details>
+  <summary>🔥 All_time </summary>
+  <br>
 ```all_time
 From: 17 July 2023 - To: 24 July 2023
 
@@ -92,7 +94,7 @@ Git Config   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
-
+</details>
 <h3 align="left">Recent Github Activities:</h3>
 
 <details>
