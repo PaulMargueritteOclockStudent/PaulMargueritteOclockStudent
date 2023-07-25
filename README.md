@@ -25,7 +25,7 @@
 <h3 align="left">⌛ Time per Language:</h3>
 
 <!--START_SECTION:stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
 
@@ -56,14 +56,17 @@ Sunday                   7 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      0 secs              █████████████████████████   100.00 % 
+Twig                     1 hr 44 mins        █████████████░░░░░░░░░░░░   50.85 % 
+PHP                      1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.09 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2023 18:40:32 UTC
+ Last Updated on 25/07/2023 06:54:24 UTC
 <!--END_SECTION:stats-->
 </details>
 
