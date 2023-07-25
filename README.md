@@ -70,6 +70,8 @@ VS Code                  3 hrs 25 mins       ███████████�
 <!--END_SECTION:stats-->
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3 align="left">Recent Github Activities:</h3>
 
