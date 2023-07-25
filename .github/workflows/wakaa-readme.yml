@@ -31,6 +31,7 @@ jobs:
           STOP_AT_OTHER: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          message: update
           TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
