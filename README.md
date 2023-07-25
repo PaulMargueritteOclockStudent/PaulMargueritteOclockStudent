@@ -92,9 +92,10 @@ PHP          1 hr 40 mins    >>>>>>>>>>>>-------------   49.09 %
 YAML         0 secs          -------------------------   00.05 %
 Git Config   0 secs          -------------------------   00.01 %
 ```
+</details>
 
 <!--END_SECTION:waka-->
-</details>
+
 <h3 align="left">Recent Github Activities:</h3>
 
 <details>
