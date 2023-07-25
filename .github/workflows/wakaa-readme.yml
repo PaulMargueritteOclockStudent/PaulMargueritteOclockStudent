@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
@@ -29,12 +28,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          # commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: PaulMargueritteOclockStudent
-          COMMITTER_EMAIL: PaulMargueritte@icloud.com
-          AUTHOR_NAME: PaulMargueritteOclockStudent
-          AUTHOR_EMAIL: PaulMargueritte@icloud.com
-          # you can populate email-id with secretes instead
+          
