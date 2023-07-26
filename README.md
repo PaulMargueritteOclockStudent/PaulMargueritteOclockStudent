@@ -73,7 +73,7 @@ VS Code                  3 hrs 25 mins       ███████████�
 </details>
 </details>
 <details>
-  <summary>🔥 All Time </summary>
+  <summary>><h3 align="left">🔥 All Time </h3></summary>
   <br>
 <!--START_SECTION:waka-->
 
