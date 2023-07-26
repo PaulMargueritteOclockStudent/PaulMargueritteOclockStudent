@@ -26,6 +26,7 @@
   <summary><h3 align="left">⌛ Time per Language:</h3> </summary>
   <br>
 <!--START_SECTION:stats-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
