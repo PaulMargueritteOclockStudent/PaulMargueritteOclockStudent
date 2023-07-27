@@ -84,15 +84,16 @@ VS Code                  10 hrs 44 mins      ███████████�
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 July 2023 - To: 25 July 2023
+From: 19 July 2023 - To: 26 July 2023
 
-Total Time: 10 hrs 34 mins
+Total Time: 13 hrs 4 mins
 
-PHP          5 hrs 47 mins   >>>>>>>>>>>>>------------   53.94 %
-Twig         4 hrs 11 mins   >>>>>>>>>>---------------   39.03 %
-CSS          20 mins         >------------------------   03.20 %
-Markdown     12 mins         >------------------------   02.01 %
-Other        10 mins         -------------------------   01.56 %
+PHP          6 hrs 37 mins   >>>>>>>>>>>>>------------   50.09 %
+Twig         4 hrs 22 mins   >>>>>>>>-----------------   33.06 %
+YAML         1 hr 29 mins    >>>----------------------   11.30 %
+CSS          20 mins         >------------------------   02.60 %
+Markdown     12 mins         -------------------------   01.63 %
+Other        10 mins         -------------------------   01.28 %
 ```
 
 <!--END_SECTION:waka-->
