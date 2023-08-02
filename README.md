@@ -76,26 +76,6 @@ VS Code                  19 hrs 47 mins      ███████████�
 </details>
 </details>
 
-<details>
-  <summary>🔥 All time </summary>
-  <br>
-
-  <br>
-<!--START_SECTION:waka-->
-
-```all_time
-From: 25 July 2023 - To: 01 August 2023
-
-Total Time: 12 hrs 17 mins
-
-PHP             6 hrs 30 mins   >>>>>>>>>>>>-------------   49.81 %
-YAML            3 hrs 28 mins   >>>>>>>------------------   26.60 %
-Twig            2 hrs 9 mins    >>>>---------------------   16.56 %
-Other           45 mins         >------------------------   05.85 %
-```
-
-<!--END_SECTION:waka-->
-</details>
 
 <h3 align="left">Recent Github Activities:</h3>
 
