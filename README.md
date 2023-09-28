@@ -31,7 +31,7 @@
 <!--START_SECTION:stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
@@ -60,14 +60,16 @@ Sunday                   25 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        █████████████████████████   100.00 % 
+Markdown                 2 hrs 28 mins       ████████████████████████░   96.06 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/09/2023 18:40:43 UTC
+ Last Updated on 28/09/2023 18:40:36 UTC
 <!--END_SECTION:stats-->
 </details>
 </details>
