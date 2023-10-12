@@ -31,7 +31,7 @@
 <!--START_SECTION:stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,7 +67,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/10/2023 18:41:47 UTC
+ Last Updated on 12/10/2023 18:41:17 UTC
 <!--END_SECTION:stats-->
 </details>
 </details>
