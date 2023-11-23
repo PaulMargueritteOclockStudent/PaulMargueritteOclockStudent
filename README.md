@@ -58,14 +58,14 @@ Sunday                   19 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/11/2023 18:40:01 UTC
+ Last Updated on 23/11/2023 18:40:25 UTC
 <!--END_SECTION:stats-->
 </details>
 </details>
