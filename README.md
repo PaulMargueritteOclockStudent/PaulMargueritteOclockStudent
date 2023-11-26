@@ -27,9 +27,9 @@
   <br>
   
 <!--START_SECTION:stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I'm an Early 🐤** 
 
@@ -58,14 +58,14 @@ Sunday                   19 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/11/2023 18:40:08 UTC
+ Last Updated on 26/11/2023 18:39:48 UTC
 <!--END_SECTION:stats-->
 </details>
 </details>
