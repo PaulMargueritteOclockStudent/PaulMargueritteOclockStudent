@@ -27,6 +27,8 @@
   <br>
   
 <!--START_SECTION:stats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **I'm an Early 🐤** 
@@ -63,7 +65,7 @@ VS Code                  5 mins              ███████████�
 ```
 
 
- Last Updated on 03/12/2023 18:39:33 UTC
+ Last Updated on 04/12/2023 18:41:14 UTC
 <!--END_SECTION:stats-->
 </details>
 </details>
