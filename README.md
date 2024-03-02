@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from France</h3>
 
 
-- 🔭 I’m currently working on **build and create my portfolio**
+- 🔭 I’m currently working on **Creating a web card game**
 
 - 🤝 You can find my last project **Write me tips or suggestion**
 
