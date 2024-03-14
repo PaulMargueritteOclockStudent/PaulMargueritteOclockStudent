@@ -93,4 +93,4 @@ No Activity Tracked This Week
 
 <br>
 
-<a href="https://app.daily.dev/kushwolf"><img src="https://github.com/PaulMargueritteOclockStudent/PaulMargueritteOclockStudent/blob/main/devcard.svg" width="400" alt="Paul's Dev Card"/></a>
+
